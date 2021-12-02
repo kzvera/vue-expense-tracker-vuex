@@ -1,4 +1,5 @@
-# vue-expense-tracker
+# Vue Expense Tracker
+> Expense tracker app built in Vue with Vuex store. View Demo: [https://vue-expense-tracker-vuex-5b101.web.app/](https://vue-expense-tracker-vuex-5b101.web.app/)
 
 ## Project setup
 ```
